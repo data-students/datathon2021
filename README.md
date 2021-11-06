@@ -37,3 +37,9 @@ This is the restaurant element scheme:
                      "snippet"}, ...]
 }
 ```
+## TO DO
+
+- Preprocess data! (translations)
+- Finish notebook (more info and links to resources)
+- Doing something with the AIRBNB dataset?
+- Create a requirements.txt for the notebook
