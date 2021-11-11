@@ -4,7 +4,7 @@ This repository contains restaurant reviews data from google. There are 150 rest
 
 ## What you can find?
 
-The json file is a list of restaurants, each restaurant contains relevant data from the restaurant including user reviews.
+The json files are a lists of restaurants, each restaurant contains relevant data from the restaurant including user reviews.
 This is the restaurant element scheme:
 
 ```{json}
@@ -37,8 +37,8 @@ This is the restaurant element scheme:
                      "snippet"}, ...]
 }
 ```
-## TO DO
 
-- Finish notebook (more info and links to resources)
-- Doing something with the AIRBNB dataset?
+More information on the challenge can be found in `challenge_notebook.ipynb`.
+
+## TO DO
 - Create a requirements.txt for the notebook
