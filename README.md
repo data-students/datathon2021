@@ -38,7 +38,4 @@ This is the restaurant element scheme:
 }
 ```
 
-More information on the challenge can be found in `challenge_notebook.ipynb`.
-
-## TO DO
-- Create a requirements.txt for the notebook
+The data for this challenge is split between two files `train_reviews.json` and `test_reviews.json` so that all participants that decide to create an ML model can report their performance metrics on the same data. More information on the challenge can be found in `challenge_notebook.ipynb` with ideas on how to tackle this challenge. To use the `transformers` library (used in the notebook) you have to install either TensorFlow or Pytorch. Refer to the library's [installation guide](https://huggingface.co/transformers/installation.html#installation-with-pip). This is the only requirement to use the notebook other than a working installation of Python and Jupyter Notebook. Refer to the installation guide of those if intending to use them.
